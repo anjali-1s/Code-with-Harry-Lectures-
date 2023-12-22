@@ -1,0 +1,2 @@
+del cities
+# print(cities)  
