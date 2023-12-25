@@ -4,7 +4,7 @@ name = "Anjali"
 for characters in  name:
      print(characters)
 
-colours = ["green,red,purple"]
+colours = ["green","red","purple"]
 for color in colours:
      print(color)
 
