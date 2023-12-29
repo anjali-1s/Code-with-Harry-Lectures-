@@ -1,0 +1,1 @@
+print(obj.ten_value)
